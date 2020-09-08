@@ -1,6 +1,6 @@
 # modelagemSupermercado
 
-Simple Calculator
+Simple supermarket modeling
 
 ## About
 
